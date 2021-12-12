@@ -1,4 +1,4 @@
-### Hey 👋, I'm Yuhi
+### Hey 👋, I'm Yuhi!
 [![Github](https://img.shields.io/github/followers/Tako64tako?label=Follow&style=social)](https://github.com/Tako64tako)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tako64tako&hide=html)
 ![mattn's github stats](https://github-readme-stats.vercel.app/api?username=Tako64tako&show_icons=true&count_private=true&line_height=40)
