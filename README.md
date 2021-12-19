@@ -4,6 +4,9 @@
 
 
 [![Github](https://img.shields.io/github/followers/Tako64tako?label=Follow&style=social)](https://github.com/Tako64tako)
+[![Plofile](https://img.shields.io/badge/type-plofile-FC02FF)](https://komarev.com/ghpvc/?username=Tako64tako)
+
+
 <!--
 **Tako64tako/Tako64tako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
