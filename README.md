@@ -12,10 +12,6 @@
 </p>
 
 
- <a href="https://www.instagram.com/tako64tako/" target="blank"><img src="https://img.shields.io/twitter/follow/tako64tako?logo=instagram&style=for-the-badge" alt="tako64tako" /></a> 
-</p>
-
-
 
 <!--
 **Tako64tako/Tako64tako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
