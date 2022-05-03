@@ -1,10 +1,8 @@
 ### Hey 👋, I'm Yuhi!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tako64tako&hide=html)
-![mattn's github stats](https://github-readme-stats.vercel.app/api?username=Tako64tako&show_icons=true&count_private=true&line_height=40)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tako64tako&row=2&column=4&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-[![Github](https://img.shields.io/github/followers/Tako64tako?label=Follow&style=social)](https://github.com/Tako64tako)
-![Plofile](https://komarev.com/ghpvc/?username=Tako64tako)
+![tako64tako's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tako64tako&show_icons=true&theme=tokyonight&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tako64tako&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
