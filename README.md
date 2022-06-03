@@ -2,7 +2,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tako64tako&row=2&column=4&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![tako64tako's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tako64tako&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tako64tako&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tako64tako&hide=html,JavaScript,jupyter%20notebook,css,scss&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
