@@ -4,8 +4,11 @@
 ![tako64tako's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tako64tako&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tako64tako&hide=html,JavaScript,jupyter%20notebook,css,scss&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-　
-
+![Tako64tako](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tako64tako&theme=tokyonight)
+![Tako64tako](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tako64tako&hide=html,JavaScript,jupyter%20notebook,css,scss&layout=compact&theme=tokyonight)
+![Tako64tako](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tako64tako&hide=html,JavaScript,jupyter%20notebook,css,scss&layout=compact&theme=tokyonight)
+![Tako64tako](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tako64tako&theme=tokyonight)
+![Tako64tako](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tako64tako&theme=tokyonight)
 
 
  <a href="https://twitter.com/tako64tako" target="blank"><img src="https://img.shields.io/twitter/follow/tako64tako?logo=twitter&style=for-the-badge" alt="tako64tako" /></a> 
