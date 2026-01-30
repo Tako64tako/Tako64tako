@@ -47,9 +47,7 @@ Backend Engineer at **[CyberAgent, Inc.](https://www.cyberagent.co.jp/)** in Tok
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tako64tako&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" alt="GitHub Stats" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tako64tako&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tako64tako&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" alt="GitHub Stats" width="100%" />
 
 </div>
 
@@ -58,6 +56,16 @@ Backend Engineer at **[CyberAgent, Inc.](https://www.cyberagent.co.jp/)** in Tok
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tako64tako&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&langs_count=8" alt="Top Languages" width="49%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tako64tako&theme=tokyonight&utcOffset=9" alt="Productive Time" width="49%" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tako64tako&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&currStreakLabel=ffffff&sideLabels=ffffff&dates=9ca3af&border_radius=10" alt="GitHub Streak Stats" width="70%" />
 
 </div>
 
