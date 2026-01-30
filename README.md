@@ -1,101 +1,121 @@
-### Hey 👋, I'm Yuhi!
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Alcohol+Driven+Developer+%F0%9F%8D%BA;Backend+Engineer+@+CyberAgent;Python+%7C+Docker+%7C+Infrastructure;Always+learning+new+things)](https://git.io/typing-svg)
+# Hey there, I'm Yuhi 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Engineer+%40+CyberAgent+%F0%9F%9A%80;Building+Scalable+Microservices;TypeScript+%7C+Node.js+%7C+MongoDB;Alcohol+Driven+Developer+%F0%9F%8D%BA)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+Backend Engineer at **[CyberAgent, Inc.](https://www.cyberagent.co.jp/)** in Tokyo, specializing in building scalable microservices and RESTful APIs. Passionate about clean architecture, developer experience, and solving complex distributed systems challenges.
+
+- 🏢 Currently working on monorepo-based backend systems with TypeScript & Node.js
+- 🌱 Learning more about distributed systems and cloud-native architectures
+- 🍺 Alcohol Driven Developer (but code responsibly!)
+- 📍 Based in Tokyo, Japan
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Primary Technologies
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Backend & Databases
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Makefile](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=cmake&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Turbo](https://img.shields.io/badge/Turbo-EF4444?style=for-the-badge&logo=turbo&logoColor=white)
+
+### API & Architecture
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=moleculer&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tako64tako&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Tako64tako&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" width="48%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tako64tako&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tako64tako&show_icons=true&theme=default&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tako64tako&hide=html,JavaScript,jupyter%20notebook,css,scss&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tako64tako&hide=html,JavaScript,jupyter%20notebook,css,scss&layout=compact&theme=default" alt="Top Languages" width="48%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Tako64tako&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tako64tako&theme=default&hide_border=true" alt="GitHub Streak" width="49%" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tako64tako&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tako64tako&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tako64tako&theme=tokyonight&utcOffset=9" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tako64tako&theme=default&utcOffset=9" alt="Productive Time" width="49%" />
 </picture>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tako64tako&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tako64tako&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📌 Profile Details
+## 📈 Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tako64tako&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tako64tako&theme=default" alt="Profile Details" />
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tako64tako&hide=html,JavaScript,jupyter%20notebook,css,scss&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tako64tako&hide=html,JavaScript,jupyter%20notebook,css,scss&theme=default" alt="Repos Per Language" width="48%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tako64tako&hide=html,JavaScript,jupyter%20notebook,css,scss&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tako64tako&hide=html,JavaScript,jupyter%20notebook,css,scss&theme=default" alt="Most Commit Language" width="48%" />
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tako64tako&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tako64tako&theme=default" alt="Stats" width="48%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tako64tako&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tako64tako&theme=default" alt="Productive Time" width="48%" />
-</picture>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tako64tako&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 📫 Connect with me
+## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://twitter.com/tako64tako" target="blank">
-  <img src="https://img.shields.io/twitter/follow/tako64tako?logo=twitter&style=for-the-badge&color=1DA1F2" alt="tako64tako" />
-</a>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TAKO64tako)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tako64tako)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanscript0550@gmail.com)
 
 </div>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Tako64tako&color=blueviolet&style=flat-square&label=Profile+Views)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tako64tako&color=38bdf8&style=for-the-badge&label=Profile+Views)
+
+**Thanks for visiting! Have a great day! 🚀**
+
+</div>
