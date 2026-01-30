@@ -47,7 +47,7 @@ Backend Engineer in Tokyo, specializing in building scalable microservices and R
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tako64tako&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tako64tako)](https://git.io/streak-stats)
 
 </div>
 
