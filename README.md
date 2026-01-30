@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Backend Engineer at **[CyberAgent, Inc.](https://www.cyberagent.co.jp/)** in Tokyo, specializing in building scalable microservices and RESTful APIs. Passionate about clean architecture, developer experience, and solving complex distributed systems challenges.
+Backend Engineer in Tokyo, specializing in building scalable microservices and RESTful APIs. Passionate about clean architecture, developer experience, and solving complex distributed systems challenges.
 
 ---
 
@@ -43,43 +43,13 @@ Backend Engineer at **[CyberAgent, Inc.](https://www.cyberagent.co.jp/)** in Tok
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tako64tako&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" alt="GitHub Stats" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tako64tako&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&langs_count=8" alt="Top Languages" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tako64tako&theme=tokyonight&utcOffset=9" alt="Productive Time" width="49%" />
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tako64tako&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&currStreakLabel=ffffff&sideLabels=ffffff&dates=9ca3af&border_radius=10" alt="GitHub Streak Stats" width="70%" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tako64tako&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=ffffff)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tako64tako&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=-C" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -102,17 +72,6 @@ Backend Engineer at **[CyberAgent, Inc.](https://www.cyberagent.co.jp/)** in Tok
 </picture>
 
 </div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
