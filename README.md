@@ -12,11 +12,6 @@
 
 Backend Engineer at **[CyberAgent, Inc.](https://www.cyberagent.co.jp/)** in Tokyo, specializing in building scalable microservices and RESTful APIs. Passionate about clean architecture, developer experience, and solving complex distributed systems challenges.
 
-- 🏢 Currently working on monorepo-based backend systems with TypeScript & Node.js
-- 🌱 Learning more about distributed systems and cloud-native architectures
-- 🍺 Alcohol Driven Developer (but code responsibly!)
-- 📍 Based in Tokyo, Japan
-
 ---
 
 ## 🛠️ Tech Stack
@@ -52,29 +47,17 @@ Backend Engineer at **[CyberAgent, Inc.](https://www.cyberagent.co.jp/)** in Tok
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tako64tako&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Tako64tako&show_icons=true&theme=default&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=Tako64tako&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" alt="GitHub Stats" width="49%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Tako64tako&theme=tokyonight&hide_border=true&background=0d1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tako64tako&theme=default&hide_border=true" alt="GitHub Streak" width="49%" />
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tako64tako&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="49%" />
 
 </div>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tako64tako&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tako64tako&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tako64tako&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&langs_count=8" alt="Top Languages" width="49%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tako64tako&theme=tokyonight&utcOffset=9" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tako64tako&theme=default&utcOffset=9" alt="Productive Time" width="49%" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tako64tako&theme=tokyonight&utcOffset=9" alt="Productive Time" width="49%" />
 
 </div>
 
@@ -84,17 +67,41 @@ Backend Engineer at **[CyberAgent, Inc.](https://www.cyberagent.co.jp/)** in Tok
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tako64tako&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Tako64tako&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=-C" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tako64tako&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tako64tako&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf8" alt="Contribution Graph" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tako64tako/Tako64tako/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tako64tako/Tako64tako/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tako64tako/Tako64tako/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
